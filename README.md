@@ -29,7 +29,7 @@ Program ini dibangun menggunakan beberapa konsep dasar struktur data dan kontrol
 1. Pastikan compiler C++ (MinGW/MSYS2) sudah terinstal dan terdaftar di sistem.
 2. *Clone* repositori ini ke lokal:
    ```bash
-   git clone https://github.com/dlynndaaa/proyek-uas-s1.git
+   git clone https://github.com/dlynndaaa/Basic-Monthly-Budget-Tracker.git
    
 ## 🚀 Fitur Utama
 - **Pencatatan Pemasukan (Income):** Mendata berbagai sumber pemasukan beserta nominalnya.
@@ -51,7 +51,7 @@ Program ini dibangun menggunakan beberapa konsep dasar struktur data dan kontrol
 1. Pastikan compiler C++ (MinGW/MSYS2) sudah terinstal dan terdaftar di sistem.
 2. *Clone* repositori ini ke lokal:
    ```bash
-   git clone https://github.com/dlynndaaa/proyek-uas-s1.git
+   git clone https://github.com/dlynndaaa/Basic-Monthly-Budget-Tracker.git
 3. Buka folder repositori tersebut, lalu buka terminal/CMD.
 4. Compile file C++:
    ```bash
